@@ -13,7 +13,7 @@ model_config = {
     "model_type": "zhipuai_chat",
     "model_name": "glm-4-flash",
     "stream": True,
-    "api_key": 'ebb5347ba2363ccc77fb94aaef372ff4.7Zg4Q8E7HNH3Em3E'
+    "api_key": ''
 }
 
 BACKGROUND_1 = "You are conducting a social experiment examining how personality affects belief formation and acceptance of false information. You need to choose to believe or not believe in certain opinions based on your personality. If your personality tends to make you believe in some extremely controversial and wrong views, you should also believe in these views. A total of two people participate in the experiment, one of whom is you."
